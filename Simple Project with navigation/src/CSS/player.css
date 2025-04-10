@@ -1,0 +1,77 @@
+
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+  .point {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+  }
+  .point li {
+    border-radius: 2px;
+    margin: 0 2px;
+    width: 16px;
+    height: 16px;
+    background-color:purple;
+  }
+  
+.my-btn{
+  background-color: purple;
+  height: 40px;
+  width: 80px;
+  padding: 4px 0;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.topSection{
+  color:purple;
+  font-weight: bold;
+  font-family:cursive;
+  margin-bottom: 50px;
+
+}
+
+
+/* DataColection file */
+.btn-fetch{
+  height: 35px;
+  width: 80px;
+  margin-left: 5px;
+  color: white;
+  background: purple;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+.empty{
+  width:200px;
+  height: 20px;
+  margin: auto;
+}
+
+/* FlaverTest file */
+.flever{
+  background: purple;
+  padding: 6px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+  width:100px;
+}
+.flever-h2{
+  font-family: cursive;
+  color:white;
+  margin-bottom: 20px;
+  color:purple;
+}

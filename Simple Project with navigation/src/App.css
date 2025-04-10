@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.sbtn {
+  height: '35px';
+  width: '80px';
+  background: 'blue';
+  color: 'white';
+  border-Radius: '3px';
+}

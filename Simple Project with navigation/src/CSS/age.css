@@ -1,0 +1,15 @@
+.my-btn{
+    margin-left: 5px;
+    height: 35px;
+    width: 100px;
+    background: purple;
+    color: white;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+.age-form{
+    text-align: center;
+    margin: 40px;
+    width: 200px;
+    margin-left: 580px;
+}
